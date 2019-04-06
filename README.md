@@ -1,9 +1,12 @@
 # Caffe-Instance-Normalization-and-Guided-Instance-Normalization
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 I implement Instance Normalization and Guided Instance Normalization of "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization " in caffe. 
 
 Paper: https://arxiv.org/abs/1703.06868
 
-1. Instance Normalization
+## Instance Normalization
 
 Instance Normalization is a recently widely used in CNN to avoid the drawback of batch normalization which brings in-batch correlations. The details can be found in Sec. 3.2 of the paper.
 
@@ -13,7 +16,7 @@ To note that, since the implement of Batch normalization in caffe are separated 
 
 Scale layer is also needed for our implement of instance_norm_layer.
 
-2. Guided Instance Normalization
+## Guided Instance Normalization
 
 Guided Instance Normalization can be used in style transfer.
 
