@@ -1,4 +1,4 @@
-# Caffe-Instance-Normalization-and-Guided-Instance-Normalization
+# (Caffe) Instance Normalization and Guided Instance Normalization
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
