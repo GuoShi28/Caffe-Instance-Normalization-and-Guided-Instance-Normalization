@@ -1,6 +1,7 @@
 # (Caffe) Instance Normalization and Guided Instance Normalization
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 I implement Instance Normalization and Guided Instance Normalization of "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization " in caffe. 
 
